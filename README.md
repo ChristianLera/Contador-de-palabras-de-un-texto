@@ -117,7 +117,7 @@ Distribuido bajo licencia MIT. Ver `LICENSE` para más información.
 
 **Christian Lera**
 
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
+- GitHub: [@ChristianLera](https://github.com/ChristianLera)
 
 ## 🙏 Agradecimientos
 

@@ -1,0 +1,7 @@
+# Dependencias para Analizador de Textos Avanzado
+# Autor: Christian Lera
+
+matplotlib>=3.5.0
+langdetect>=1.0.9
+textblob>=0.17.1
+numpy>=1.21.0
